@@ -13,7 +13,7 @@
     "mur-sst:/zarr-v1"
   ],
   "meta": {
-    "Install time": [
+    "Install Time": [
       "2 minutes"
     ],
     "Type": [
@@ -22,6 +22,15 @@
     "Tag": [ "S3" ],
     "Categories": [
       "Environment"
+    ],
+    "Update Frequency": [
+      "Monthly"
+     ],
+    "Last Updated": [
+      "01/01/2021"
+    ],
+    "License": [
+      "N/A"
     ],
     "Catalog Id": [
       "mur-sst-dataset"
